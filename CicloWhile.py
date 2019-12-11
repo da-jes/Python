@@ -1,10 +1,7 @@
 MATERIAS = 3
 
 # Datos del alumno
-print("Alumno 1")
-nombre = input("Nombre completo: ")
-grado = input("Grado: ")
-grupo = input("Grupo: ")
+
 
 # Hacer un ciclo, pedir datos y sumar la calificación
 contador = 1
